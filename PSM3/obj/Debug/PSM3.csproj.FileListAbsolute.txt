@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\PSM3\bin\Debug\PSM3.exe.config
+C:\Users\janka\Desktop\PSM3\bin\Debug\PSM3.exe
+C:\Users\janka\Desktop\PSM3\bin\Debug\PSM3.pdb
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.Form1.resources
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.Properties.Resources.resources
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.exe
+C:\Users\janka\Desktop\PSM3\obj\Debug\PSM3.pdb

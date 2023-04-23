@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\PSM4\bin\Debug\PSM4.exe.config
+C:\Users\janka\Desktop\PSM4\bin\Debug\PSM4.exe
+C:\Users\janka\Desktop\PSM4\bin\Debug\PSM4.pdb
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.Form1.resources
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.Properties.Resources.resources
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.exe
+C:\Users\janka\Desktop\PSM4\obj\Debug\PSM4.pdb

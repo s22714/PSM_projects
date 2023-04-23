@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\PSM2\PSM2\bin\Debug\PSM2.exe.config
+C:\Users\janka\Desktop\PSM2\PSM2\bin\Debug\PSM2.exe
+C:\Users\janka\Desktop\PSM2\PSM2\bin\Debug\PSM2.pdb
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.Form1.resources
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.Properties.Resources.resources
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.exe
+C:\Users\janka\Desktop\PSM2\PSM2\obj\Debug\PSM2.pdb

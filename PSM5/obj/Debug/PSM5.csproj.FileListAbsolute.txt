@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\PSM5\bin\Debug\PSM5.exe.config
+C:\Users\janka\Desktop\PSM5\bin\Debug\PSM5.exe
+C:\Users\janka\Desktop\PSM5\bin\Debug\PSM5.pdb
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.Form1.resources
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.Properties.Resources.resources
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.exe
+C:\Users\janka\Desktop\PSM5\obj\Debug\PSM5.pdb

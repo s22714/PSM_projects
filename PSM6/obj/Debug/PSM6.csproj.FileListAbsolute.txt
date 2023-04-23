@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\PSM6\bin\Debug\PSM6.exe.config
+C:\Users\janka\Desktop\PSM6\bin\Debug\PSM6.exe
+C:\Users\janka\Desktop\PSM6\bin\Debug\PSM6.pdb
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.Properties.Resources.resources
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.exe
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.pdb
+C:\Users\janka\Desktop\PSM6\obj\Debug\PSM6.Form1.resources
